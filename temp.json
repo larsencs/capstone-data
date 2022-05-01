@@ -1,0 +1,73 @@
+"prompts": [
+    {
+      "id": 1,
+      "prompt": "A once great foe, now broken at your feet.",
+      "emotionId": 1
+    },
+    {
+      "id": 2,
+      "prompt": "An old friend",
+      "emotionId": 2
+    },
+    {
+      "id": 3,
+      "prompt": "The feeling of being left behind.",
+      "emotionId": 3
+    },
+    {
+      "id": 4,
+      "prompt": "The wind.",
+      "emotionId": 4
+    },
+    {
+      "id": 5,
+      "prompt": "A clown, full of malevolence and bleeding from all of it's many, many eyes.",
+      "emotionId": 5
+    },
+    {
+      "id": 6,
+      "prompt": "A hand full of holes.",
+      "emotionId": 6
+    },
+    {
+      "id": 7,
+      "prompt": "An ocean scene, with still waters and a cloudless sky.",
+      "emotionId": 7
+    }
+  ]
+
+  {
+    "id": 1,
+    "prompt": "A once great foe, now broken at your feet.",
+    "emotionId": 1
+  },
+  {
+    "id": 2,
+    "prompt": "An old friend",
+    "emotionId": 2
+  },
+  {
+    "id": 3,
+    "prompt": "The feeling of being left behind.",
+    "emotionId": 3
+  },
+  {
+    "id": 4,
+    "prompt": "The wind.",
+    "emotionId": 4
+  },
+  {
+    "id": 5,
+    "prompt": "A clown, full of malevolence and bleeding from all of it's many, many eyes.",
+    "emotionId": 5
+  },
+  {
+    "id": 6,
+    "prompt": "A hand full of holes.",
+    "emotionId": 6
+  },
+  {
+    "id": 7,
+    "prompt": "An ocean scene, with still waters and a cloudless sky.",
+    "emotionId": 7
+  }
