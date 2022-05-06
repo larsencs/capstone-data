@@ -4,6 +4,16 @@
       "email": "chris@chris.com",
       "name": "Chris Larsen",
       "id": 1
+    },
+    {
+      "email": "billy@billy.com",
+      "name": "Bill Billy",
+      "id": 2
+    },
+    {
+      "email": "Joe@joe.com",
+      "name": "Joe Joe",
+      "id": 3
     }
   ],
   "emotions": [
@@ -34,328 +44,332 @@
     {
       "id": 5,
       "emotion": "calm"
+    },
+    {
+      "id": 8,
+      "emotion": "MADNESS"
     }
   ],
   "prompts": [
     {
       "id": 1,
-      "prompt": "A house on fire."
+      "prompt": "a house on fire"
     },
     {
       "id": 2,
-      "prompt": "A snowball."
+      "prompt": "a snowball"
     },
     {
       "id": 3,
-      "prompt": "A still life with exotic fruit. Nothing mundane."
+      "prompt": "a still life with exotic fruit. Nothing mundane"
     },
     {
       "id": 4,
-      "prompt": "A pencil."
+      "prompt": "a pencil"
     },
     {
       "id": 5,
-      "prompt": "An empty room with a birthday cake and andles for a hundreth birthday."
+      "prompt": "an empty room with a birthday cake and candles for a hundreth birthday"
     },
     {
       "id": 6,
-      "prompt": "Blood. Just blood. Rivers of blood."
+      "prompt": "blood. Just blood. Rivers of blood"
     },
     {
       "id": 7,
-      "prompt": "A human dressed as a cat."
+      "prompt": "a human dressed as a cat"
     },
     {
       "id": 8,
-      "prompt": "A cat dressed as a human."
+      "prompt": "a cat dressed as a human"
     },
     {
       "id": 9,
-      "prompt": "Keeping the peasants in line."
+      "prompt": "keeping the peasants in line"
     },
     {
       "id": 10,
-      "prompt": "Vandalism."
+      "prompt": "vandalism"
     },
     {
       "id": 11,
-      "prompt": "Two whales enjoying life."
+      "prompt": "two whales enjoying life"
     },
     {
       "id": 12,
-      "prompt": "Two girls and one cup."
+      "prompt": "one cup"
     },
     {
       "id": 13,
-      "prompt": "Flying snakes."
+      "prompt": "flying snakes"
     },
     {
       "id": 14,
-      "prompt": "A bottle of italian dressing."
+      "prompt": "a bottle of italian dressing"
     },
     {
       "id": 15,
-      "prompt": "An ugly person."
+      "prompt": "an ugly person"
     },
     {
       "id": 16,
-      "prompt": "Full-sized Deborah."
+      "prompt": "full-sized Deborah"
     },
     {
       "id": 17,
-      "prompt": "The depression that ensues after catching them all."
+      "prompt": "the depression that ensues after catching them all"
     },
     {
       "id": 18,
-      "prompt": "A third-world paradise."
+      "prompt": "a third-world paradise"
     },
     {
       "id": 19,
-      "prompt": "A first world problem."
+      "prompt": "a first world problem"
     },
     {
       "id": 20,
-      "prompt": "Grandpa."
+      "prompt": "grandpa"
     },
     {
       "id": 21,
-      "prompt": "Sitting atop a pile of tuna like some kind of tuna queen."
+      "prompt": "sitting atop a pile of tuna like some kind of tuna queen"
     },
     {
       "id": 22,
-      "prompt": "A pagan ceremony."
+      "prompt": "a pagan ceremony"
     },
     {
       "id": 23,
-      "prompt": "The inevitable heat death of the universe."
+      "prompt": "the inevitable heat death of the universe"
     },
     {
       "id": 24,
-      "prompt": "Voldemort."
+      "prompt": "Voldemort"
     },
     {
       "id": 25,
-      "prompt": "A person made entirely of limbs."
+      "prompt": "a person made entirely of limbs"
     },
     {
       "id": 26,
-      "prompt": "A really bad day."
+      "prompt": "a really bad day"
     },
     {
       "id": 27,
-      "prompt": "The pizza delivery person."
+      "prompt": "the pizza delivery person"
     },
     {
       "id": 28,
-      "prompt": "A Christmas story."
+      "prompt": "a Christmas story"
     },
     {
       "id": 29,
-      "prompt": "A family tradition."
+      "prompt": "a family tradition"
     },
     {
       "id": 30,
-      "prompt": "What you would consider to be nonconformist."
+      "prompt": "what you would consider to be nonconformist"
     },
     {
       "id": 31,
-      "prompt": "Thumb, the king of fingers."
+      "prompt": "thumb, the king of fingers"
     },
     {
       "id": 32,
-      "prompt": "A decorative pillow."
+      "prompt": "a decorative pillow"
     },
     {
       "id": 33,
-      "prompt": "Life inside of a tuba."
+      "prompt": "life inside of a tuba"
     },
     {
       "id": 34,
-      "prompt": "A mysterious floating orb."
+      "prompt": "a mysterious floating orb"
     },
     {
       "id": 35,
-      "prompt": "Hoof prints."
+      "prompt": "hoof prints"
     },
     {
       "id": 36,
-      "prompt": "The end of all life on Earth."
+      "prompt": "the end of all life on Earth"
     },
     {
       "id": 37,
-      "prompt": "Dementia, what does it look like?"
+      "prompt": "dementia, what does it look like"
     },
     {
       "id": 38,
-      "prompt": "A two-headed hampster."
+      "prompt": "a two-headed hampster"
     },
     {
       "id": 39,
-      "prompt": "The fear and hatred in men's hearts."
+      "prompt": "the fear and hatred in men's hearts"
     },
     {
       "id": 40,
-      "prompt": "A really cool hat."
+      "prompt": "a really cool hat"
     },
     {
       "id": 41,
-      "prompt": "The act of eating."
+      "prompt": "the act of eating"
     },
     {
       "id": 41,
-      "prompt": "Slamming a duck."
+      "prompt": "slamming a duck"
     },
     {
       "id": 42,
-      "prompt": "A mountain of meat."
+      "prompt": "a mountain of meat"
     },
     {
       "id": 43,
-      "prompt": "Tasteful side-boob."
+      "prompt": "tasteful nudity"
     },
     {
       "id": 44,
-      "prompt": "A ferocious tiger."
+      "prompt": "a ferocious tiger"
     },
     {
       "id": 45,
-      "prompt": "A sandwich."
+      "prompt": "a sandwich"
     },
     {
       "id": 46,
-      "prompt": "A mundane object, but made entirely out of human skin."
+      "prompt": "a mundane object, but made entirely out of human skin"
     },
     {
       "id": 47,
-      "prompt": "Bowling, but with planets for balls."
+      "prompt": "bowling, but with planets for balls"
     },
     {
       "id": 48,
-      "prompt": "A ghost."
+      "prompt": "a ghost"
     },
     {
       "id": 49,
-      "prompt": "A legless flamingo."
+      "prompt": "a legless flamingo"
     },
     {
       "id": 50,
-      "prompt": "A spirit of the forest."
+      "prompt": "a spirit of the forest"
     },
     {
       "id": 51,
-      "prompt": "A tiny pig wearing clothes."
+      "prompt": "a tiny pig wearing clothes"
     },
     {
       "id": 52,
-      "prompt": "Really tall people."
+      "prompt": "really tall people"
     },
     {
       "id": 53,
-      "prompt": "Life as a goat."
+      "prompt": "life as a goat"
     },
     {
       "id": 54,
-      "prompt": "Dead bodies."
+      "prompt": "dead bodies"
     },
     {
       "id": 55,
-      "prompt": "The inability to form meaningful relationships."
+      "prompt": "the inability to form meaningful relationships"
     },
     {
       "id": 56,
-      "prompt": "Eternal screaming madness."
+      "prompt": "eternal screaming madness"
     },
     {
       "id": 57,
-      "prompt": "Drinking alone."
+      "prompt": "drinking alone"
     },
     {
       "id": 58,
-      "prompt": "Texas."
+      "prompt": "texas"
     },
     {
       "id": 59,
-      "prompt": "An Oreo dessert pizza."
+      "prompt": "an Oreo dessert pizza"
     },
     {
       "id": 60,
-      "prompt": "Seeing your family slaughtered before your eyes."
+      "prompt": "seeing your family slaughtered before your eyes"
     },
     {
       "id": 61,
-      "prompt": "A bear wearing a shirt that is somehow still shirtless."
+      "prompt": "a bear wearing a shirt that is somehow still shirtless"
     },
     {
       "id": 62,
-      "prompt": "A tiny horse."
+      "prompt": "a tiny horse"
     },
     {
       "id": 63,
-      "prompt": "Sharks, but with legs."
+      "prompt": "sharks, but with legs"
     },
     {
       "id": 64,
-      "prompt": "A man with a lantern."
+      "prompt": "a man with a lantern"
     },
     {
       "id": 65,
-      "prompt": "A lumberjack."
+      "prompt": "a lumberjack"
     },
     {
       "id": 66,
-      "prompt": "A household object, but sentient ...and screaming."
+      "prompt": "a household object, but sentient ...and screaming"
     },
     {
       "id": 67,
-      "prompt": "Backwards knees."
+      "prompt": "backwards knees"
     },
     {
       "id": 68,
-      "prompt": "The Abercrombie and Fitch lifestyle."
+      "prompt": "the Abercrombie and Fitch lifestyle"
     },
     {
       "id": 69,
-      "prompt": "A monkey smoking a cigarette."
+      "prompt": "a monkey smoking a cigarette"
     },
     {
       "id": 70,
-      "prompt": "Unlimited pleasure."
+      "prompt": "unlimited pleasure"
     },
     {
       "id": 71,
-      "prompt": "A giant catfish."
+      "prompt": "a giant catfish"
     },
     {
       "id": 72,
-      "prompt": "The devourer of worlds."
+      "prompt": "the devourer of worlds"
     },
     {
       "id": 73,
-      "prompt": "A majestic sea turtle."
+      "prompt": "a majestic sea turtle"
     },
     {
       "id": 74,
-      "prompt": "A sceptre made of bone."
+      "prompt": "a sceptre made of bone"
     },
     {
       "id": 75,
-      "prompt": "What astral projection looks like."
+      "prompt": "what astral projection looks like"
     },
     {
       "id": 76,
-      "prompt": "Carbs. Literally just carbs."
+      "prompt": "carbs. Literally just carbs"
     },
     {
       "id": 77,
-      "prompt": "A superhero that is literally just a sphere."
+      "prompt": "a superhero that is literally just a sphere"
     },
     {
       "id": 78,
-      "prompt": "Life, but without legs."
+      "prompt": "Life, but without legs"
     },
     {
       "id": 79,
-      "prompt": "a nuclear detonation."
+      "prompt": "a nuclear detonation"
     },
     {
       "id": 80,
@@ -363,35 +377,35 @@
     },
     {
       "id": 81,
-      "prompt": "people dancing in the forest."
+      "prompt": "people dancing in the forest"
     },
     {
       "id": 82,
-      "prompt": "chainsaws for hands."
+      "prompt": "chainsaws for hands"
     },
     {
       "id": 83,
-      "prompt": "infinity."
+      "prompt": "infinity"
     },
     {
       "id": 84,
-      "prompt": "salmon. Just salmon."
+      "prompt": "salmon. Just salmon"
     },
     {
       "id": 85,
-      "prompt": "a pointless job trapped inside a cubicle."
+      "prompt": "a pointless job trapped inside a cubicle"
     },
     {
       "id": 86,
-      "prompt": "total chaos."
+      "prompt": "total chaos"
     },
     {
       "id": 87,
-      "prompt": "shrimp."
+      "prompt": "shrimp"
     },
     {
       "id": 88,
-      "prompt": "two people kissing."
+      "prompt": "two people kissing"
     },
     {
       "id": 89,
@@ -403,11 +417,11 @@
     },
     {
       "id": 91,
-      "prompt": "a balanced breakfast."
+      "prompt": "a balanced breakfast"
     },
     {
       "id": 92,
-      "prompt": "vehicular manslaughter."
+      "prompt": "vehicular manslaughter"
     },
     {
       "id": 93,
@@ -499,39 +513,155 @@
     },
     {
       "id": 115,
-      "prompt": "Children on leashes."
+      "prompt": "children on leashes"
     },
     {
       "id": 116,
-      "prompt": "Animals sharing secrets."
+      "prompt": "animals sharing secrets"
     },
     {
       "id": 117,
-      "prompt": "An educated dolphin."
+      "prompt": "an educated dolphin"
     },
     {
       "id": 118,
-      "prompt": "A horse with no legs."
+      "prompt": "a horse with no legs"
     },
     {
       "id": 119,
-      "prompt": "The great depression."
+      "prompt": "the great depression"
     },
     {
       "id": 120,
-      "prompt": "Alcoholism."
+      "prompt": "alcoholism"
     },
     {
       "id": 121,
-      "prompt": "Being nine years old."
+      "prompt": "being nine years old"
     },
     {
       "id": 122,
-      "prompt": "goblins."
+      "prompt": "goblins"
     },
     {
       "id": 123,
       "prompt": "historically accurate, non-racist Jesus"
+    },
+    {
+      "id": 124,
+      "prompt": "the concept of Eternal Recurrence"
+    },
+    {
+      "id": 125,
+      "prompt": "two girls"
+    },
+    {
+      "id": 126,
+      "prompt": "a single cup"
+    },
+    {
+      "id": 127,
+      "prompt": "a coaster"
+    },
+    {
+      "id": 128,
+      "prompt": "a knife"
+    },
+    {
+      "id": 129,
+      "prompt": "two men"
+    },
+    {
+      "id": 130,
+      "prompt": "a cat with a top hat"
+    },
+    {
+      "id": 131,
+      "prompt": "mortal combat"
+    },
+    {
+      "id": 132,
+      "prompt": "swords"
+    },
+    {
+      "id": 133,
+      "prompt": "a car"
+    },
+    {
+      "id": 134,
+      "prompt": "a gun"
+    },
+    {
+      "id": 135,
+      "prompt": "focused violence"
+    },
+    {
+      "id": 136,
+      "prompt": "the family pet"
+    },
+    {
+      "id": 137,
+      "prompt": "yourself"
+    },
+    {
+      "id": 138,
+      "prompt": "demons"
+    },
+    {
+      "id": 139,
+      "prompt": "disembodied hands with too many fingers"
+    },
+    {
+      "id": 140,
+      "prompt": "a burrito"
+    },
+    {
+      "id": 141,
+      "prompt": "a bad haircut"
+    },
+    {
+      "id": 142,
+      "prompt": "choir boys"
+    },
+    {
+      "id": 143,
+      "prompt": "Cindy Crawford"
+    },
+    {
+      "id": 144,
+      "prompt": "money. Literally just money"
+    },
+    {
+      "id": 145,
+      "prompt": "the Windows logo"
+    },
+    {
+      "id": 146,
+      "prompt": "the Mac logo"
+    },
+    {
+      "id": 147,
+      "prompt": "a hairball"
+    },
+    {
+      "id": 148,
+      "prompt": "a full moon"
+    },
+    {
+      "id": 149,
+      "prompt": "chains"
+    },
+    {
+      "id": 150,
+      "prompt": "clowns"
+    },
+    {
+      "id": 151,
+      "prompt": "a schoolbus"
+    },
+    {
+      "id": 152,
+      "prompt": "a chess piece"
     }
   ],
   "emoPrompts": [
@@ -2164,111 +2294,757 @@
       "id": 326,
       "promptId": 123,
       "emotionId": 5
+    },
+    {
+      "id": 327,
+      "promptId": 124,
+      "emotionId": 1
+    },
+    {
+      "id": 328,
+      "promptId": 124,
+      "emotionId": 3
+    },
+    {
+      "id": 329,
+      "promptId": 124,
+      "emotionId": 4
+    },
+    {
+      "id": 330,
+      "promptId": 124,
+      "emotionId": 6
+    },
+    {
+      "id": 331,
+      "promptId": 125,
+      "emotionId": 3
+    },
+    {
+      "id": 332,
+      "promptId": 125,
+      "emotionId": 5
+    },
+    {
+      "id": 333,
+      "promptId": 125,
+      "emotionId": 7
+    },
+    {
+      "id": 334,
+      "promptId": 126,
+      "emotionId": 3
+    },
+    {
+      "id": 335,
+      "promptId": 126,
+      "emotionId": 5
+    },
+    {
+      "id": 336,
+      "promptId": 126,
+      "emotionId": 7
+    },
+    {
+      "id": 336,
+      "promptId": 127,
+      "emotionId": 3
+    },
+    {
+      "id": 337,
+      "promptId": 127,
+      "emotionId": 5
+    },
+    {
+      "id": 338,
+      "promptId": 127,
+      "emotionId": 7
+    },
+    {
+      "id": 339,
+      "promptId": 128,
+      "emotionId": 3
+    },
+    {
+      "id": 340,
+      "promptId": 128,
+      "emotionId": 5
+    },
+    {
+      "id": 341,
+      "promptId": 128,
+      "emotionId": 7
+    },
+    {
+      "id": 342,
+      "promptId": 128,
+      "emotionId": 1
+    },
+    {
+      "id": 343,
+      "promptId": 129,
+      "emotionId": 3
+    },
+    {
+      "id": 344,
+      "promptId": 129,
+      "emotionId": 5
+    },
+    {
+      "id": 345,
+      "promptId": 129,
+      "emotionId": 7
+    },
+    {
+      "id": 346,
+      "promptId": 130,
+      "emotionId": 3
+    },
+    {
+      "id": 347,
+      "promptId": 130,
+      "emotionId": 5
+    },
+    {
+      "id": 348,
+      "promptId": 130,
+      "emotionId": 7
+    },
+    {
+      "id": 349,
+      "promptId": 131,
+      "emotionId": 1
+    },
+    {
+      "id": 350,
+      "promptId": 131,
+      "emotionId": 6
+    },
+    {
+      "id": 351,
+      "promptId": 132,
+      "emotionId": 3
+    },
+    {
+      "id": 352,
+      "promptId": 132,
+      "emotionId": 5
+    },
+    {
+      "id": 353,
+      "promptId": 132,
+      "emotionId": 7
+    },
+    {
+      "id": 354,
+      "promptId": 132,
+      "emotionId": 1
+    },
+    {
+      "id": 355,
+      "promptId": 133,
+      "emotionId": 3
+    },
+    {
+      "id": 356,
+      "promptId": 133,
+      "emotionId": 5
+    },
+    {
+      "id": 357,
+      "promptId": 133,
+      "emotionId": 7
+    },
+    {
+      "id": 358,
+      "promptId": 134,
+      "emotionId": 1
+    },
+    {
+      "id": 359,
+      "promptId": 134,
+      "emotionId": 6
+    },
+    {
+      "id": 360,
+      "promptId": 135,
+      "emotionId": 1
+    },
+    {
+      "id": 361,
+      "promptId": 136,
+      "emotionId": 3
+    },
+    {
+      "id": 362,
+      "promptId": 136,
+      "emotionId": 5
+    },
+    {
+      "id": 363,
+      "promptId": 136,
+      "emotionId": 7
+    },
+    {
+      "id": 364,
+      "promptId": 137,
+      "emotionId": 3
+    },
+    {
+      "id": 365,
+      "promptId": 137,
+      "emotionId": 5
+    },
+    {
+      "id": 366,
+      "promptId": 137,
+      "emotionId": 7
+    },
+    {
+      "id": 367,
+      "promptId": 138,
+      "emotionId": 6
+    },
+    {
+      "id": 368,
+      "promptId": 138,
+      "emotionId": 1
+    },
+    {
+      "id": 369,
+      "promptId": 139,
+      "emotionId": 6
+    },
+    {
+      "id": 370,
+      "promptId": 140,
+      "emotionId": 3
+    },
+    {
+      "id": 371,
+      "promptId": 140,
+      "emotionId": 5
+    },
+    {
+      "id": 372,
+      "promptId": 140,
+      "emotionId": 7
+    },
+    {
+      "id": 373,
+      "promptId": 141,
+      "emotionId": 5
+    },
+    {
+      "id": 374,
+      "promptId": 141,
+      "emotionId": 6
+    },
+    {
+      "id": 375,
+      "promptId": 142,
+      "emotionId": 3
+    },
+    {
+      "id": 376,
+      "promptId": 142,
+      "emotionId": 5
+    },
+    {
+      "id": 377,
+      "promptId": 142,
+      "emotionId": 7
+    },
+    {
+      "id": 378,
+      "promptId": 143,
+      "emotionId": 3
+    },
+    {
+      "id": 379,
+      "promptId": 143,
+      "emotionId": 5
+    },
+    {
+      "id": 380,
+      "promptId": 144,
+      "emotionId": 3
+    },
+    {
+      "id": 381,
+      "promptId": 144,
+      "emotionId": 5
+    },
+    {
+      "id": 382,
+      "promptId": 144,
+      "emotionId": 7
+    },
+    {
+      "id": 383,
+      "promptId": 145,
+      "emotionId": 3
+    },
+    {
+      "id": 384,
+      "promptId": 145,
+      "emotionId": 5
+    },
+    {
+      "id": 385,
+      "promptId": 145,
+      "emotionId": 7
+    },
+    {
+      "id": 386,
+      "promptId": 146,
+      "emotionId": 3
+    },
+    {
+      "id": 387,
+      "promptId": 146,
+      "emotionId": 5
+    },
+    {
+      "id": 388,
+      "promptId": 146,
+      "emotionId": 7
+    },
+    {
+      "id": 389,
+      "promptId": 147,
+      "emotionId": 6
+    },
+    {
+      "id": 390,
+      "promptId": 148,
+      "emotionId": 3
+    },
+    {
+      "id": 391,
+      "promptId": 148,
+      "emotionId": 5
+    },
+    {
+      "id": 392,
+      "promptId": 148,
+      "emotionId": 7
+    },
+    {
+      "id": 393,
+      "promptId": 149,
+      "emotionId": 3
+    },
+    {
+      "id": 394,
+      "promptId": 149,
+      "emotionId": 5
+    },
+    {
+      "id": 395,
+      "promptId": 149,
+      "emotionId": 6
+    },
+    {
+      "id": 396,
+      "promptId": 150,
+      "emotionId": 6
+    },
+    {
+      "id": 397,
+      "promptId": 151,
+      "emotionId": 3
+    },
+    {
+      "id": 398,
+      "promptId": 151,
+      "emotionId": 5
+    },
+    {
+      "id": 399,
+      "promptId": 151,
+      "emotionId": 7
+    },
+    {
+      "id": 400,
+      "promptId": 151,
+      "emotionId": 6
+    },
+    {
+      "id": 401,
+      "promptId": 152,
+      "emotionId": 3
+    },
+    {
+      "id": 402,
+      "promptId": 152,
+      "emotionId": 5
     }
   ],
   "posts": [
     {
-      "userId": 1,
-      "promptId": 121,
-      "emotionId": 4,
+      "userId": 2,
+      "promptId": 16,
+      "emotionId": 7,
       "isComplete": false,
-      "id": 1
+      "id": 4
     },
     {
-      "userId": 1,
-      "promptId": 77,
+      "userId": 2,
+      "promptId": 148,
       "emotionId": 3,
-      "isComplete": false,
-      "id": 2
-    },
-    {
-      "id": 3,
-      "userId": 1,
-      "title": "title",
-      "description": "This is just a string of words. It's purpose is to test out the divs and make sure there are no major issues with containing words -- as well as what will happen when the words exceed the size of the div itself.",
-      "image": "https://picsum.photos/300/400",
-      "promptId": 92,
-      "emotionId": 1,
-      "isComplete": true
-    },
-    {
-      "id": 4,
-      "userId": 1,
-      "title": "werfsdf",
-      "description": "This is just a string of words. It's purpose is to test out the divs and make sure there are no major issues with containing words -- as well as what will happen when the words exceed the size of the div itself.",
-      "image": "https://picsum.photos/300/400",
-      "promptId": 66,
-      "emotionId": 2,
-      "isComplete": true
-    },
-    {
-      "id": 5,
-      "userId": 1,
-      "title": "Another Title",
-      "description": "This is just a string of words. It's purpose is to test out the divs and make sure there are no major issues with containing words -- as well as what will happen when the words exceed the size of the div itself.",
-      "image": "https://picsum.photos/300/400",
-      "promptId": 53,
-      "emotionId": 6,
-      "isComplete": true
-    },
-    {
-      "userId": 1,
-      "promptId": 92,
-      "emotionId": 1,
-      "isComplete": false,
-      "id": 7
-    },
-    {
-      "userId": 1,
-      "promptId": 57,
-      "emotionId": 2,
-      "isComplete": false,
-      "id": 8
-    },
-    {
-      "userId": 1,
-      "promptId": 85,
-      "emotionId": 6,
-      "isComplete": false,
-      "id": 9
-    },
-    {
-      "userId": 1,
-      "promptId": 15,
-      "emotionId": 7,
-      "isComplete": false,
-      "id": 10
-    },
-    {
-      "userId": 1,
-      "promptId": 3,
-      "emotionId": 7,
-      "isComplete": false,
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "promptId": 85,
-      "emotionId": 4,
       "isComplete": false,
       "id": 12
     },
     {
+      "id": 13,
       "userId": 1,
-      "promptId": 53,
+      "title": "Eternal Recurrence",
+      "description": "So Nietzsche's idea of Eternal Recurrence kind of got stuck in my head: the concept that we are doomed to live the same life over and over again forever, as matter can only be arranged in a finite number of ways.\nI ended up drawing this in a bar after mulling the concept over for a while. A bit dark, I know -- but it did serve to generally get me left alone. Am I the only person who goes to bars to be alone?",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651779333/Sketchy/recurrence_gsre99.jpg",
+      "promptId": 124,
+      "emotionId": 1,
+      "isComplete": true,
+      "prompt": {
+        "id": 124,
+        "prompt": "the concept of Eternal Recurrence"
+      },
+      "emotion": {
+        "id": 1,
+        "emotion": "angry"
+      }
+    },
+    {
+      "id": 14,
+      "userId": 1,
+      "title": "Dulce Bellum Inexpertis",
+      "description": "A few years back I used to design and produce embroidered patches. I was part of several patch collector groups, and making limited runs of original designs was a pretty decent way of making spare money.\nUnfortunately, the communities were decidedly right-wing and became quite toxic over time. Would that there were communities that weren't completely nuts, I never would have given up my side hustle.\nSome good did come out of it, though. I produced an entire series of scribbled originals that served as card inserts for the patches themselves. This one, in particular, comes with the Latin phrase \"Dulce bellum inexpertis\" which means, \"war is sweet to those who haven't experienced it.\"",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651779339/Sketchy/soldier_kngta4.jpg",
+      "promptId": 114,
       "emotionId": 3,
-      "isComplete": false,
-      "id": 13
+      "isComplete": true,
+      "prompt": {
+        "id": 114,
+        "prompt": "a soldier"
+      },
+      "emotion": {
+        "id": 3,
+        "emotion": "neutral"
+      }
     },
     {
       "userId": 1,
-      "promptId": 57,
-      "emotionId": 2,
+      "promptId": 99,
+      "emotionId": 3,
       "isComplete": false,
-      "id": 14
+      "id": 15
+    },
+    {
+      "id": 16,
+      "userId": 1,
+      "title": "Fourhead",
+      "description": "How do I even explain this? I've been drawing this concept over and over again since my age was in the single digits: heads morphing into heads, morphing into heads.\nAnyhow, it's pretty nonconformist so...",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651779352/Sketchy/fourhead_k6nvfj.jpg",
+      "promptId": 30,
+      "emotionId": 1,
+      "isComplete": true,
+      "prompt": {
+        "id": 30,
+        "prompt": "what you would consider to be nonconformist"
+      },
+      "emotion": {
+        "id": 1,
+        "emotion": "angry"
+      }
+    },
+    {
+      "userId": 2,
+      "promptId": 28,
+      "emotionId": 3,
+      "isComplete": false,
+      "id": 18
+    },
+    {
+      "id": 19,
+      "userId": 2,
+      "title": "Trapped V2",
+      "description": "This is just a string of words. It's purpose is to test out the divs and make sure there are no major issues with containing words -- as well as what will happen when the words exceed the size of the div itself.",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651780495/Sketchy/trappedtwo_o09dad.jpg",
+      "promptId": 109,
+      "emotionId": 3,
+      "isComplete": true
+    },
+    {
+      "id": 20,
+      "userId": 2,
+      "title": "Stressed out",
+      "description": "This is just a string of words. It's purpose is to test out the divs and make sure there are no major issues with containing words -- as well as what will happen when the words exceed the size of the div itself.",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651780527/Sketchy/stress_m35l6v.jpg",
+      "promptId": 137,
+      "emotionId": 3,
+      "isComplete": true
+    },
+    {
+      "id": 21,
+      "userId": 3,
+      "title": "Eternal Recurrence",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651780505/Sketchy/Recurrencethree_nu9vio.jpg",
+      "promptId": 124,
+      "emotionId": 1,
+      "isComplete": true
+    },
+    {
+      "userId": 3,
+      "promptId": 123,
+      "emotionId": 3,
+      "isComplete": false,
+      "id": 22
+    },
+    {
+      "userId": 3,
+      "promptId": 121,
+      "emotionId": 1,
+      "isComplete": false,
+      "id": 23
+    },
+    {
+      "id": 24,
+      "userId": 3,
+      "title": "Quick sketch!",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651783718/Sketchy/20220411_063148_1_bjkkes.jpg",
+      "promptId": 138,
+      "emotionId": 6,
+      "isComplete": true
+    },
+    {
+      "id": 25,
+      "userId": 3,
+      "title": "Harmony",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651783704/Sketchy/20200304_212519_daywib.jpg",
+      "promptId": 30,
+      "emotionId": 1,
+      "isComplete": true
+    },
+    {
+      "id": 26,
+      "userId": 1,
+      "title": "Eric and his corn",
+      "description": "So, Eric. Yeah. I used Eric and his wife as models for a long time, this being no exception. It was something of an awkward moment, but the end result turned out quite well.\nBehold, Eric and his corn!",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651779346/Sketchy/eric_ktxlp1.jpg",
+      "promptId": 41,
+      "emotionId": 3,
+      "isComplete": true,
+      "prompt": {
+        "id": 41,
+        "prompt": "the act of eating"
+      },
+      "emotion": {
+        "id": 3,
+        "emotion": "neutral"
+      }
+    },
+    {
+      "userId": 1,
+      "promptId": 27,
+      "emotionId": 1,
+      "isComplete": false,
+      "id": 27
     }
   ],
-  "comments": [],
+  "madness": [
+    {
+      "userId": 2,
+      "prompt": "A superhero duo made up of grandpa and yourself",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 114
+    },
+    {
+      "userId": 2,
+      "prompt": "The world ending, not with a thumb, the king of fingers ,but with a a pencil",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 115
+    },
+    {
+      "userId": 1,
+      "prompt": "A world ravaged by the patriarchy",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 119
+    },
+    {
+      "userId": 1,
+      "prompt": "A museum exhibit devoted to being nine years old",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 120
+    },
+    {
+      "userId": 1,
+      "prompt": "A superhero duo made up of historically accurate, non-racist Jesus and unlimited pleasure",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 121
+    },
+    {
+      "id": 122,
+      "userId": 1,
+      "title": "Trapped",
+      "description": "It fits the bill mostly. I'm not sure that the end result could be considered charming, but it's definitely disturbing.\nEver felt like you were trapped inside your own head, and simply going through the motions? Yeah. This was the first thing I produced after taking a five-year break from art entirely. Guess it's like riding a bike.",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651780501/Sketchy/trapped_huoqbb.jpg",
+      "prompt": "A disturbing, yet charming rendition of cybernetic enhancements",
+      "emotionId": 8,
+      "isComplete": true,
+      "emotion": {
+        "id": 8,
+        "emotion": "MADNESS"
+      }
+    },
+    {
+      "userId": 2,
+      "prompt": "salmon. Just salmon as it would appear in Elden Ring",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 123
+    },
+    {
+      "userId": 2,
+      "prompt": "a pointless job trapped inside a cubicle, but as President",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 124
+    },
+    {
+      "userId": 2,
+      "prompt": "A slippery slope leading from a really bad day to dementia, what does it look like",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 125
+    },
+    {
+      "id": 126,
+      "userId": 1,
+      "title": "Dryad",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651779355/Sketchy/dryad_f3ejwx.jpg",
+      "prompt": "A fifty foot statue of tasteful nudity",
+      "emotionId": 8,
+      "isComplete": true,
+      "emotion": {
+        "id": 8,
+        "emotion": "MADNESS"
+      },
+      "description": "Though it's not quite a statue, I think it fits the bill of tasteful. I rarely do nudes. I don't see the point.\nThis, however, was originally produced for a small breast cancer charity fundraiser. She is done entirely in stippling (tiny dots), and took me a little over two weeks to produce working ten hours a day, weekends included."
+    },
+    {
+      "id": 127,
+      "userId": 2,
+      "title": "Trauma",
+      "description": "This is just a string of words. It's purpose is to test out the divs and make sure there are no major issues with containing words -- as well as what will happen when the words exceed the size of the div itself.",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651780498/Sketchy/wrists_tscm8m.jpg",
+      "prompt": "the great depression, achievement unlocked.",
+      "emotionId": 8,
+      "isComplete": true
+    },
+    {
+      "userId": 1,
+      "prompt": "cybernetic enhancements against the world",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 128
+    },
+    {
+      "id": 129,
+      "userId": 1,
+      "title": "Yin Yang",
+      "description": "Though not quite a coaster, I think I would consider this yin yang to be somewhat nonconformist. Gears cover the black side of the design, and one of my first attempts at stones covers the light side.",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651780492/Sketchy/yin_yang_mny2xc.jpg",
+      "prompt": "It's raining what you would consider to be nonconformist and a coaster",
+      "emotionId": 8,
+      "isComplete": true,
+      "emotion": {
+        "id": 8,
+        "emotion": "MADNESS"
+      }
+    },
+    {
+      "userId": 1,
+      "prompt": "a ferocious tiger, but drawn as if you were a child",
+      "emotionId": 8,
+      "isComplete": false,
+      "id": 130
+    },
+    {
+      "id": 131,
+      "userId": 1,
+      "title": "Elemental Tree",
+      "image": "https://res.cloudinary.com/dpmbv6zxb/image/upload/v1651841515/Sketchy/20220506_074527_tpngkx.jpg",
+      "prompt": "A fifty foot statue of trees",
+      "emotionId": 8,
+      "isComplete": true,
+      "emotion": {
+        "id": 8,
+        "emotion": "MADNESS"
+      },
+      "description": "I mean, it *could* be a statue. It really just needs something to add scale.\nAnyhow, the four sections of the leaves cover the four elements."
+    }
+  ],
+  "comments": [
+    {
+      "postId": 16,
+      "comment": "What the hell even is this??",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "postId": 122,
+      "comment": "I love this.",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "postId": 26,
+      "comment": "This is so gross",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "postId": 13,
+      "comment": "Bro, this is seriously disturbing.",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "postId": 14,
+      "comment": "Do you still have any of these patches??",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "postId": 21,
+      "comment": "I love the scribble colors!",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "postId": 126,
+      "comment": "It's both beautiful and disturbing.",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "postId": 13,
+      "comment": "If I were at that bar I would leave you alone, too!",
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "postId": 16,
+      "comment": "This is sick!",
+      "userId": 3,
+      "id": 9
+    }
+  ],
   "sentences": [
     {
       "id": 1,
@@ -2316,7 +3092,7 @@
       "id": 7,
       "fragmentOne": "",
       "insertOne": "",
-      "fragmentTwo": " slowly turning into ",
+      "fragmentTwo": "Slowly turning into goo. ",
       "insertTwo": ""
     },
     {
@@ -2329,8 +3105,8 @@
     {
       "id": 9,
       "fragmentOne": "",
-      "insertOne": ", achievement unlocked.",
-      "fragmentTwo": "",
+      "insertOne": "",
+      "fragmentTwo": ", achievement unlocked.",
       "insertTwo": ""
     },
     {
@@ -2344,7 +3120,7 @@
       "id": 11,
       "fragmentOne": "The world ending, not with a ",
       "insertOne": "",
-      "fragmentTwo": " but with a ",
+      "fragmentTwo": " ,but with a ",
       "insertTwo": ""
     },
     {
@@ -2384,9 +3160,9 @@
     },
     {
       "id": 17,
-      "fragmentOne": "A ",
+      "fragmentOne": "",
       "insertOne": "",
-      "fragmentTwo": " problem",
+      "fragmentTwo": ", but Australian",
       "insertTwo": ""
     },
     {
@@ -2401,6 +3177,111 @@
       "fragmentOne": "",
       "insertOne": "",
       "fragmentTwo": ", but as a doll",
+      "insertTwo": ""
+    },
+    {
+      "id": 20,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": " and ",
+      "insertTwo": ""
+    },
+    {
+      "id": 21,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": " as ",
+      "insertTwo": ""
+    },
+    {
+      "id": 22,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": " doing battle with ",
+      "insertTwo": ""
+    },
+    {
+      "id": 23,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": ", just nope. Nope. Nope!",
+      "insertTwo": ""
+    },
+    {
+      "id": 24,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": ", or why Disney sucks",
+      "insertTwo": ""
+    },
+    {
+      "id": 25,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": ", but as President",
+      "insertTwo": ""
+    },
+    {
+      "id": 26,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": ", but in the style of the Egyptians",
+      "insertTwo": ""
+    },
+    {
+      "id": 27,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": ", but in the most offensive way possible",
+      "insertTwo": ""
+    },
+    {
+      "id": 28,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": " as it would appear in Elden Ring",
+      "insertTwo": ""
+    },
+    {
+      "id": 30,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": " against the world",
+      "insertTwo": ""
+    },
+    {
+      "id": 31,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": ", but drawn as if you were a child",
+      "insertTwo": ""
+    },
+    {
+      "id": 32,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": ", but drawn with your non-dominant hand",
+      "insertTwo": ""
+    },
+    {
+      "id": 33,
+      "fragmentOne": "",
+      "insertOne": "",
+      "fragmentTwo": " to the face",
+      "insertTwo": ""
+    },
+    {
+      "id": 34,
+      "fragmentOne": "A normal day ruined by ",
+      "insertOne": "",
+      "fragmentTwo": "",
+      "insertTwo": ""
+    },
+    {
+      "id": 35,
+      "fragmentOne": "A plan for world domination beginning with ",
+      "insertOne": "",
+      "fragmentTwo": "",
       "insertTwo": ""
     }
   ]
